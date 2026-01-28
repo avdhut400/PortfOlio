@@ -1,5 +1,5 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
-import profileImg from "../assets/WhatsApp Image 2026-01-27 at 10.08.02 PM.jpeg";
+
 
 export default function About() {
   return (
@@ -17,7 +17,7 @@ export default function About() {
             border border-gray-800 shadow-[0_0_60px_rgba(154,205,141,0.15)]"
           >
             <img
-              src={profileImg}
+              src="/WhatsApp Image 2026-01-27 at 10.08.02 PM.jpeg"
               alt="Avdhut Magar"
               className="h-full w-full object-cover"
             />

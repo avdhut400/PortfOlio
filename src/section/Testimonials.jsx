@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
-import gssocCert from "../assets/Avdhut_magar_certificate.png";
-import sihCert from "../assets/WhatsApp Image 2026-01-28 at 5.55.03 PM.jpeg";
+
 
 export default function Certificates() {
   return (
@@ -27,7 +26,7 @@ export default function Certificates() {
             className="bg-[#0e0e0e] border border-gray-800 rounded-xl overflow-hidden"
           >
             <img
-              src={gssocCert}
+              src="/Avdhut_magar_certificate.png"
               alt="GirlScript Summer of Code Certificate"
               className="w-full object-cover"
             />
@@ -48,7 +47,7 @@ export default function Certificates() {
             className="bg-[#0e0e0e] border border-gray-800 rounded-xl overflow-hidden"
           >
             <img
-              src={sihCert}
+              src="/WhatsApp Image 2026-01-28 at 5.55.03 PM.jpeg"
               alt="DYPIU Internal Hackathon Certificate"
               className="w-full object-cover"
             />
