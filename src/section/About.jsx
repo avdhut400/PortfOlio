@@ -66,7 +66,7 @@ export default function About() {
 
           {/* Resume Button */}
           <a
-            href="/resume.pdf"
+            href="/Avdhut_Magar_Resume updated.pdf"
             download
             className="inline-block mt-8 px-7 py-3 bg-[#9ACD8D]
             text-black font-medium rounded-md hover:opacity-90 transition"
