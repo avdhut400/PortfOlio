@@ -30,11 +30,11 @@ const experiences = [
     tech: ["Git", "GitHub", "Open Source", "Teamwork"],
   },
   {
-    year: "Dec 2025 – Jan 2025",
-    role: "AI/ML Intern",
-    company: "Edunet Foundation",
-    desc: "Completed a 6-week AI/ML internship focused on data preprocessing, machine learning models, and practical implementation using real-world datasets.",
-    tech: ["Python", "Machine Learning"],
+     year: "2026",
+    role: "Java Full Stack Developer Intern",
+    company: "Infosys Springboard",
+    desc: "Gained practical experience in Java full stack development, focusing on Core Java, Spring Boot, REST APIs, database integration, and backend application development.",
+    tech: ["Java", "Spring Boot", "REST APIs", "SQL", "MySQL"]
   },
 ];
 
