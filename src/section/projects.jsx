@@ -23,7 +23,7 @@ export default function Projects() {
   return (
     <section id="projects" className="bg-black text-white py-20 px-6">
       <h2 className="text-4xl font-bold text-center mb-12">
-            Selected Projects
+           Projects
       </h2>
 
 
