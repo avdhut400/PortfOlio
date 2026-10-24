@@ -12,9 +12,9 @@ const projects = [
     link: "https://github.com/avdhut400/IndeHaven",
   },
   {
-    title: "Weather App — React & API Integration",
-    desc: "A fast and responsive weather forecasting application built with React and Vite. Fetches real-time weather data using the OpenWeather API with a clean and minimal UI.",
-    link: "https://weather-seven-delta-18.vercel.app/",
+    title: "PhotoFlux — Federated Social Media Platform",
+    desc: "A federated social media application built with React, Node.js, Express, and MongoDB using the ActivityPub protocol. Supports user authentication, post creation, local follow/unfollow, remote Mastodon user discovery, and federated content sharing.",
+    link: "https://fediverse-rho.vercel.app/",
   },
 ];
 
