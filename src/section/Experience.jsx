@@ -41,7 +41,7 @@ const experiences = [
     role: "Research Intern",
     company: "DES Pune University",
     desc: "Worked on an AI research project using Vision Transformers and continuous learning to detect edible oil adulteration through image analysis and deep learning",
-    tech: ["React", "Tailwind", "Git", "Team Leadership","AI-ML", "Python"],
+    tech: ["React", "Tailwind", "Git", "Team Leadership","AI-ML", "Python","Vision Transformer (ViT-B/16)", "Torchvision","FastAPI"],
   },
 ];
 
