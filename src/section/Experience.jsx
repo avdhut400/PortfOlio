@@ -36,6 +36,13 @@ const experiences = [
     desc: "Gained practical experience in Java full stack development, focusing on Core Java, Spring Boot, REST APIs, database integration, and backend application development.",
     tech: ["Java", "Spring Boot", "REST APIs", "SQL", "MySQL"]
   },
+   {
+    year: "May 2026 – Aug 2026",
+    role: "Research Intern",
+    company: "DES Pune University",
+    desc: "Worked on an AI research project using Vision Transformers and continuous learning to detect edible oil adulteration through image analysis and deep learning",
+    tech: ["React", "Tailwind", "Git", "Team Leadership","AI-ML", "Python"],
+  },
 ];
 
 
